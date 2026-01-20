@@ -1,7 +1,7 @@
 import { defineConfig } from '@lando/vitepress-theme-default-plus/config';
 
 export default defineConfig({
-  base: '/wiki/',
+  base: '/UNTiTlED-wiki/',
   lang: 'zh-CN',
   title: 'UNTiTlED Wiki',
   description: '未界音律UNTiTlED指南',
