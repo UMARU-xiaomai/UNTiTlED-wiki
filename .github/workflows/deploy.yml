@@ -1,4 +1,4 @@
-iname: Build and deploy VitePress site
+name: Build and deploy VitePress site
 
 on:
   push:
