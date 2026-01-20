@@ -1,4 +1,4 @@
-import { defineConfig } from '@lando/vitepress-theme-default-plus/config';
+import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   base: '/UNTiTlED-wiki/',
