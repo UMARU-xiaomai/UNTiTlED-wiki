@@ -13,7 +13,8 @@ export default defineConfig({
 
     nav: [
       { text: '首页', link: '/' },
-      { text: '指南', link: '/guide' }
+      { text: '指南', link: '/guide' },
+      { text: '法律', link: '/legal' }
     ],
 
     darkMode: true
