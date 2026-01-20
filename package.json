@@ -2,9 +2,7 @@
   "name": "UNTiTlED-wiki",
   "private": false,
   "devDependencies": {
-    "vitepress": "^1.0.0",
-    "vitepress-plugin-search": "^1.0.0",
-    "flexsearch": "^0.7.31"
+    "vitepress": "^1.0.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
