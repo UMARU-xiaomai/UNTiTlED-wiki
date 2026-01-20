@@ -1,10 +1,10 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from '@lando/vitepress-theme-default-plus/config';
 
 export default defineConfig({
   base: '/wiki/',
   lang: 'zh-CN',
   title: 'UNTiTlED Wiki',
-  description: '项目文档',
+  description: '未界音律UNTiTlED指南',
 
   themeConfig: {
     search: {
