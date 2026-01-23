@@ -2,6 +2,6 @@
 
 这是未界音律UNTiTlED的 Wiki 首页。
 
-- [指南](./guide/index.md)
+- [游玩指南](./guide/index.md)
+- [谱面制作](./chart_making/index.md)
 - [法律](./legal/index.md)
-
