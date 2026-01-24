@@ -3,11 +3,11 @@
 学习如何开始创作并分享您的 未界音律UNTiTlED 谱面。
 
 ::: brand
-本文适用于 **未界音律UNTiTlED Ver.0.9.1** 以及**未界音律谱面编辑器ChartEditorOfUNTiTlED Ver0.3.0**。
+本文适用于 **未界音律UNTiTlED Ver.0.9.1** 以及**未界音律谱面编辑器ChartEditorOfUNTiTlED Ver0.3.1** 及以上版本。
 :::
 
 ## 下载并运行制谱器以获取 UUID
-您可以从[这里](/building.md)下载 未界音律UNTiTlED 制谱器。
+您可以从[这里](https://wwaso.lanzouu.com/iBLHy3gu76ha)下载 未界音律UNTiTlED 制谱器。
 
 将压缩文件解压至任意位置之后，双击 ChartEditorOfUNTiTlED.exe 运行制谱器。
 
@@ -22,11 +22,15 @@
 首先，您需要通过审核。
 
 **您必须符合以下条件之一：**
-- TODO
+
+- Arcaea ptt 12.00以上
+- 范式：起源任意一张15+级以上谱面一百万分以上
+- Polytone任意一张12级以上谱面精确度98%以上
+- 有任意音乐游戏制谱经验，发送您觉得最好的谱面
 
 通过下面的渠道将您的**验证信息，UNTiTlED账户名称和 UUID** 一并发给我们：
 
-- [加入官方QQ群](/building.md)
+- [加入官方QQ群](https://qun.qq.com/universal-share/share?ac=1&authKey=5Hunj98%2BH0bgeQEynCclC8EuEbZQPomQ%2B4DR5GLJVod4JCWUlXGUFdpF4F0%2BxKt9&busi_data=eyJncm91cENvZGUiOiI2ODc2Nzk3MDgiLCJ0b2tlbiI6ImFmd2ZYOFlSWFRUc0N0S0hpd0JBSTlzWDZpS1MwSFhXQnpvUTNoYjFqRGZXQUo0eUtnRHJjVnNnOExSMFVaakUiLCJ1aW4iOiIxMTA0NTI4MDgxIn0%3D&data=n3tfg9nhZtkP4qa7gpvqDMgiRnVIf1KCw3aYM9p8o2HD1DfQR-xJqXlHJ-jn7j5OXNQbwP0Bx1ugkC7hJP69Vg&svctype=4&tempid=h5_group_info)
 - 【[UMARU_feedback@163.com](mailto:UMARU_feedback@163.com)】
 
 ## 使用制谱器制作谱面
