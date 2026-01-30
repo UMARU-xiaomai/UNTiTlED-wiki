@@ -10,7 +10,7 @@
 
 ::: tabs
 == Android
-您可以通过 [蓝奏云](https://play.google.com/store/apps/details?id=com.ShimitsuKoi.UNTiTlED) 下载并安装 UNTiTlED。
+您可以通过 [蓝奏云](https://wwaso.lanzouu.com/illI63g1zhve) 下载并安装 UNTiTlED。
 
 == iOS
 您可以通过 [Test Flight](https://testflight.apple.com/join/g2rH6q7j) 下载并安装 UNTiTlED。
