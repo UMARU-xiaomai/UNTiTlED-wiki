@@ -22,7 +22,7 @@
 未界UNTiTlED 是一个独立于现实世界的时空体系，这里记录着 UNTiTlED 的运行日志
 :::
 
-:::card [**谱面制作**](./chart_making/index.md)
+:::card [**谱面创作**](./chart_making/index.md)
 想要制作属于您自己的谱面并且游玩，与 UNTiTlED Community 的所有玩家分享甚至参与排名？您一定要来看看这些！
 :::
 
@@ -33,6 +33,6 @@
 :::card [**法律**](./legal/index.md)
 法律相关文章
 
-[DMCA](./legal/DMCA.md)
+[DMCA](./legal/DMCA.md) - [隐私政策与服务条款](./legal/privacy-and-policy.md)
 :::
 
