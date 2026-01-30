@@ -20,6 +20,7 @@ export default defineConfig({
       { text: '游戏剧情', link: '/story' },
       { text: '谱面创作', link: '/chart_making' },
       { text: '规章制度', link: '/rules' },
+      { text: '新闻动态', link: '/news' },
       { text: '法律', link: '/legal' }
     ],
 
