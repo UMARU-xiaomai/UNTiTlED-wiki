@@ -20,6 +20,10 @@
 - iOS: 0.9.1
 - Android: 0.9.0
 
+:::tip
+强烈推荐您[加入官方QQ群](https://qun.qq.com/universal-share/share?ac=1&authKey=5Hunj98%2BH0bgeQEynCclC8EuEbZQPomQ%2B4DR5GLJVod4JCWUlXGUFdpF4F0%2BxKt9&busi_data=eyJncm91cENvZGUiOiI2ODc2Nzk3MDgiLCJ0b2tlbiI6ImFmd2ZYOFlSWFRUc0N0S0hpd0JBSTlzWDZpS1MwSFhXQnpvUTNoYjFqRGZXQUo0eUtnRHJjVnNnOExSMFVaakUiLCJ1aW4iOiIxMTA0NTI4MDgxIn0%3D&data=n3tfg9nhZtkP4qa7gpvqDMgiRnVIf1KCw3aYM9p8o2HD1DfQR-xJqXlHJ-jn7j5OXNQbwP0Bx1ugkC7hJP69Vg&svctype=4&tempid=h5_group_info)以便获取最新讯息
+:::
+
 ## 注册账号
 
 要开始游玩未界音律UNTiTlED，您首先需要注册一个账号。
