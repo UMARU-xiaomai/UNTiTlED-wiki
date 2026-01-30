@@ -15,7 +15,7 @@
 
 ## 注册一个 UNTiTlED 账户
 
-您需要一个 UNTiTlED 账户来上传谱面，请参阅“[注册UNTiTlED账户](/guide/register.md)”
+您需要一个 UNTiTlED 账户来上传谱面，请参阅“[注册UNTiTlED账户](/guide/index.md#注册账号)”
 
 ## 审核
 

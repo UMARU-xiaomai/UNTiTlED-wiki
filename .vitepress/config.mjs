@@ -7,11 +7,13 @@ export default defineConfig({
   description: '未界音律UNTiTlED指南',
 
   themeConfig: {
+    logo: '/img/UNTiTlED_Logo_Primary.png',
     search: {
       provider: 'local'
     },
 
     nav: [
+      { text: '回到官网', link: 'https://untitledrhythm.online/' },
       { text: '首页', link: '/' },
       { text: '游玩指南', link: '/guide' },
       { text: '游戏玩法', link: '/game_play' },

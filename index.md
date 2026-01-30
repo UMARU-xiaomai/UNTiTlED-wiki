@@ -2,7 +2,7 @@
 
 这是 **未界音律UNTiTlED** 的 Wiki 首页；
 
-![UNTiTlED Logo](/public/img/UNTiTlED-logo-v2.png)
+![UNTiTlED Logo](/public/img/UNTiTlED_Logo_Primary.png)
 
 **未界音律UNTiTlED** 是由独立开发者 **清水恋ShimitsuKoi** 独立开发的移动端音乐游戏；
 
