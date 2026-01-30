@@ -11,7 +11,7 @@
 ---
 
 :::card [**游玩指南**](./guide/index.md)
-从账号注册开始，一步步带您了解如何开始游玩未界音律UNTiTlED
+从下载游戏开始，一步步带您了解如何开始游玩未界音律UNTiTlED
 :::
 
 :::card [**游戏玩法**](./game_play/index.md)

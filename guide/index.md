@@ -2,6 +2,24 @@
 
 学习如何开始游玩未界音律UNTiTlED
 
+## 下载游戏
+
+您首先需要下载并安装游戏。
+
+当前游戏未正式上线，请通过以下渠道参与测试：
+
+::: tabs
+== Android
+您可以通过 [蓝奏云](https://play.google.com/store/apps/details?id=com.ShimitsuKoi.UNTiTlED) 下载并安装 UNTiTlED。
+
+== iOS
+您可以通过 [Test Flight](https://testflight.apple.com/join/g2rH6q7j) 下载并安装 UNTiTlED。
+:::
+
+当前测试版本：
+- iOS: 0.9.1
+- Android: 0.9.0
+
 ## 注册账号
 
 要开始游玩未界音律UNTiTlED，您首先需要注册一个账号。
