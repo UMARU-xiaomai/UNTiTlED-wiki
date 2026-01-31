@@ -5,9 +5,13 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'UNTiTlED Wiki',
   description: '未界音律UNTiTlED指南',
+      head: [
+      // 设置 favicon 图标
+      ['link', { rel: 'icon', href: '/wiki/img/UNTiTlED_Logo_Icon.ico' }],
+    ],
 
   themeConfig: {
-    logo: '/img/UNTiTlED_Logo_Primary.png',
+    logo: '/img/UNTiTlED_Logo_Icon.ico',
     search: {
       provider: 'local'
     },
@@ -25,5 +29,6 @@ export default defineConfig({
     ],
 
     darkMode: true
-  }
-})
+
+  },
+});
